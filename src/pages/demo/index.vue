@@ -21,7 +21,7 @@ export default class Demo extends Vue {
   title: string = 'This is demo page'
   desc: string = ''
   mounted () {
-    this.desc = `mounted, let's hold a party`
+    this.desc = `mounted, let's begin "hello world"`
   }
 }
 </script>
